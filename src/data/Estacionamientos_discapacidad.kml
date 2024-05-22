@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Estacionamientos para personas con discapacidad</name>
+    <description>Ubicación de estacionamientos para personas con discapacidad en la ciudad de Coyhaique</description>
+    <Style id="icon-1735-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1735-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1735-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1735-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1735-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1735-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1735-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1735-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1735-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1735-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Estacionamientos para discapacitados</name>
+      <Placemark>
+        <name>Francisco Bilbao 357</name>
+        <description>2 estacionamientos para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.070065,-45.572411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lautaro, frente supermercado Unimarc</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.07219,-45.575261,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arturo Prat, frente a paseo Prat</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.073015,-45.575998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Condell, al llegar a Moraleda</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065419,-45.569952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moraleda, al llegar a M. Rodirguez</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.068049,-45.567481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12 de Octubre, frente a SENADIS</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.073089,-45.573282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jorge Ibar, acceso Hospital Regional</name>
+        <description>2 estacionamientoa para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0731,-45.56821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barroso, costado Liceo San Felipe Benicio</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.067729,-45.57173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riquelme, frente a esquina Tropera</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.068878,-45.569865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 de Mayo, frente a Banco Santander</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066468,-45.570498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Errázuriz, frente a tienda Calafate</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.072306,-45.57408,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tucapel, acceso consultorio A. Gutiérrez</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.048849,-45.579037,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monreal 356</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.059726,-45.57617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>21 de Mayo, al llegar a Sargento Aldea</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.060525,-45.572844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Errázuriz, entre Las Viscachaz y Los Ovejeros</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.028317,-45.583288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diego Portales, Club Los Leones</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.067519,-45.566194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ejercito, Plaza Las Nieves</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.069882,-45.565519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Quintas, Escuela España</name>
+        <description>2 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.056429,-45.573426,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sargento Aldea, Escuela España</name>
+        <description>2 estacionamientos para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.060729,-45.572226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freire 954</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.062124,-45.575902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Pirámide 1785</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053377,-45.588036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circunvalación Oriente Poniente 1776</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053684,-45.58856,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monreal 260</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.059119,-45.575189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio Ibañez 746</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.036587,-45.585965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arauco, Acceso Liceo Ricardo Navarrete</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051518,-45.579557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Francisco Bilbao, Colegio Alborada</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.052968,-45.577546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Mackay 3362</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.030809,-45.57828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baquedano 84</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066162,-45.563842,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Maitenes 945</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066166,-45.582366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pradenas, Centro Cultural</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.064407,-45.570125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cañete, agrupación CADVI</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0525,-45.583528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Lengas 853</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065381,-45.580354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Sembradores</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053858,-45.588832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colegio Altamira</name>
+        <styleUrl>#icon-1735-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.062213,-45.571993,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baguales 376</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.031991,-45.581685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valle Simpson 346</name>
+        <styleUrl>#icon-1735-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.03682,-45.578569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circunvalación Oriente Poniente 1478</name>
+        <styleUrl>#icon-1735-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.058881,-45.587588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madre Bonifacia 688</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.03221,-45.585393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Barros Arana 831</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.049231,-45.585066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freire 253</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0723,-45.57286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colón 671</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065946,-45.577953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lautaro 802</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065158,-45.577364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balmaceda 196</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.072203,-45.567775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eusebio Lillo 454</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.068939,-45.574878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Errazuriz 502</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.06873,-45.575171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circunvalación Oriente Poniente 1802</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053332,-45.58865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chile Argentina 3321</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.02858,-45.581036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mafud Massis 1155</name>
+        <styleUrl>#icon-1735-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.05092,-45.586996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio Ibañez 866</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.036555,-45.587682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bilbao 777, Juzgado de Letras</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.064312,-45.574205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baquedano 27</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065856,-45.565269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rio Palena 2775</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.036111,-45.582205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freire 675</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.06599,-45.574776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lautaro 772</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065966,-45.577135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vicente Barahona 3079</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.035189,-45.576352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Patagonia 383</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.030506,-45.581886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alejandro Gutiérrez 932</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.060144,-45.582841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Tepas 838</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066085,-45.579852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simón Bolivar, Escuela Mater Dei</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066995,-45.574196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Toninas 2848</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.034716,-45.581747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Ovejeros 695</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.027559,-45.585656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Cipreses 1782</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051457,-45.584607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Canelos 1352</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.059202,-45.582715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Mackay 3434</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.029682,-45.578051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marta Brunet 1026</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.0493,-45.586776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Calle 4, 3132</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.045546,-45.585708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Integración 3439</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.026593,-45.581183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ruperto Vidal 3097</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.035092,-45.57566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moraleda 249</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.066374,-45.56807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adolfo Valdebenito 3352</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.03101,-45.577954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Lirios 836</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.060507,-45.581517,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Las Quintas 900</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.061992,-45.582435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marcela Paz 841</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.047634,-45.58538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paso Fronterizo el Triana 2168</name>
+        <styleUrl>#icon-1735-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -72.043686,-45.585218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toqui 683</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.04804,-45.583342,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Libertad 42</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051437,-45.57466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Mackay 1667</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.054518,-45.586309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>General Parra, al llegar a Moraleda</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065778,-45.568886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Frontera 3390</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.027397,-45.58151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Cipreses 1652</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053721,-45.583971,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Mackay 1487</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.05773,-45.585688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tucapel 655</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.050843,-45.582174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lautaro 544</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.06902,-45.576142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Campos de Hielo / Galciar Nef</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.033855,-45.57142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro La Virgen 1767</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051573,-45.58417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freire 1626</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051454,-45.579189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro La Virgen 1783</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051346,-45.584237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Panamá 1171</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.054941,-45.571155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colón 127</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.062716,-45.572675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Domingo Zambrano 163</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.031216,-45.57966,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Errázuriz 39</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.075278,-45.573207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciriaco Alvárez 593</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.046984,-45.582938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Aguirre Cerda 536</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.062233,-45.577501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Colón 521</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065055,-45.576513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madre Bonifacia 655</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.032258,-45.585198,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juan Alonso Biava 2181</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.035497,-45.578579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baquedano 100</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.065388,-45.565711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alfonso Serrano 153</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.052258,-45.571462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Nevado 1678</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053954,-45.585246,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>-	Francisco Bilbao, pasado calle Arturo Prat </name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.071184,-45.572154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freire, costado ABCDIN</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.071081,-45.573204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pablo de Rocka 1067</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.04903,-45.5873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Los Fiordos 695</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.030729,-45.585494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isla Nueva 3396</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.02719,-45.582545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ventisquero 3293</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.029176,-45.582468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Sombrero 1753</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.053766,-45.587625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciriaco Alvárez 665</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.047357,-45.583512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>México 1360</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.051276,-45.571943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schneider 1213</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.05406,-45.571369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Porvenir 960</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.067844,-45.585626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cerro Mackay 3192</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.052746,-45.586593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pudú 3197</name>
+        <description>1 estacionamiento para discapacitados</description>
+        <styleUrl>#icon-1735-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            -72.030255,-45.583759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
